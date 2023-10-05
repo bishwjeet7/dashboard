@@ -16,7 +16,7 @@ function App() {
       <Header OpenSidebar={OpenSidebar}/>
       <Sidebar openSidebarToggle={openSidebarToggle} OpenSidebar={OpenSidebar}/>
       <Home/>
-      <NotifyAlert/>
+      {/* <NotifyAlert/> */}
     </div>
   )
 }

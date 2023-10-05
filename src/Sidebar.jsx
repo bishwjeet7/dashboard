@@ -17,27 +17,47 @@ function Sidebar({openSidebarToggle, OpenSidebar}) {
             </li>
             <li className="sidebar-list-item">
                 <a href="">
-                    <BsFillArchiveFill className="icon" />Today Task
+                    <BsFillArchiveFill className="icon" />Guard Management
                 </a>
             </li>
             <li className="sidebar-list-item">
                 <a href="">
-                    <BsFillGrid3X3GapFill className="icon" />Categories
+                    <BsFillGrid3X3GapFill className="icon" />Schedule Management
                 </a>
             </li>
             <li className="sidebar-list-item">
                 <a href="">
-                    <BsPeopleFill className="icon" />Customers
+                    <BsPeopleFill className="icon" />Site Management
                 </a>
             </li>
             <li className="sidebar-list-item">
                 <a href="">
-                    <BsListCheck className="icon" />Inventory
+                    <BsListCheck className="icon" />Communication Center
                 </a>
             </li>
             <li className="sidebar-list-item">
                 <a href="">
-                    <BsMenuButtonWideFill className="icon" />Reports
+                    <BsMenuButtonWideFill className="icon" />Incident Reporting
+                </a>
+            </li>
+            <li className="sidebar-list-item">
+                <a href="">
+                    <BsFillGearFill className="icon" />Geofencing & Monitoring
+                </a>
+            </li>
+            <li className="sidebar-list-item">
+                <a href="">
+                    <BsFillGearFill className="icon" />Notification Center
+                </a>
+            </li>
+            <li className="sidebar-list-item">
+                <a href="">
+                    <BsFillGearFill className="icon" />Post Order Management
+                </a>
+            </li>
+            <li className="sidebar-list-item">
+                <a href="">
+                    <BsFillGearFill className="icon" />Help & Support
                 </a>
             </li>
             <li className="sidebar-list-item">
